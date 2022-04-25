@@ -4,9 +4,9 @@ import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
 
-import { useMutation } from '@apollo/client'
-import { REMOVE_BOOK } from '../../utils/mutations'
-import { QUERY_ME } from '../../utils/queries'
+import { useMutation, useQuery } from '@apollo/client'
+import { REMOVE_BOOK } from '../utils/mutations'
+import { QUERY_ME } from '../utils/queries'
 
 const SavedBooks = () => {
   const { loading, data } = useQuery(QUERY_ME)
@@ -52,7 +52,7 @@ const SavedBooks = () => {
   }
 
   // if data isn't here yet, say so
-  if (!userDataLength) {
+  if (!userData.length) {
     return <h2>LOADING...</h2>;
   }
 

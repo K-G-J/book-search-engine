@@ -14,8 +14,8 @@ import { searchGoogleBooks } from '../utils/API'
 import { saveBookIds, getSavedBookIds } from '../utils/localStorage'
 
 import { useMutation } from '@apollo/client'
-import { SAVE_BOOK } from '../../utils/mutations'
-import { QUERY_ME } from '../../utils/queries'
+import { SAVE_BOOK } from '../utils/mutations'
+import { QUERY_ME } from '../utils/queries'
 
 const SearchBooks = () => {
   // create state for holding returned google api data
