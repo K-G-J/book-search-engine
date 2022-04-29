@@ -5,7 +5,8 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-![book-search-engine-demo](https://user-images.githubusercontent.com/91970214/165875503-d91edbe7-9b50-4b85-930b-8c91589e6625.gif)
+![book-search-engine-demo](https://user-images.githubusercontent.com/91970214/165875809-8abbaaf2-93b4-4c70-a683-58bebe7c9003.gif)
+
 
 ## Description
 Full-stack MERN app using create-react-app, graphql, appollo server and client, and MongoDB
