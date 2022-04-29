@@ -1,9 +1,12 @@
 # Book Search Engine
 
+## [view application](https://book-search-engine-kj.herokuapp.com/)
+
 ## User Story
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
+
 
 ![book-search-engine-demo](https://user-images.githubusercontent.com/91970214/165876021-21bbfb6b-933e-4b37-a9c4-61be8d0a9aab.gif)
 
