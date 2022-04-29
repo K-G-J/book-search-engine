@@ -5,7 +5,7 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-![book-search-engine-demo](https://user-images.githubusercontent.com/91970214/165875809-8abbaaf2-93b4-4c70-a683-58bebe7c9003.gif)
+![book-search-engine-demo](https://user-images.githubusercontent.com/91970214/165876021-21bbfb6b-933e-4b37-a9c4-61be8d0a9aab.gif)
 
 
 ## Description
